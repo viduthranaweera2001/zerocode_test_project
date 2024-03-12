@@ -8,6 +8,7 @@ class ZerocodeTestProjectApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("viduth");
     }
 
 }
